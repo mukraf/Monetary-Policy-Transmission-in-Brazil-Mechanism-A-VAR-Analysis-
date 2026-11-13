@@ -1,0 +1,2 @@
+# Monetary-Policy-Transmission-in-Brazil-Mechanism-A-VAR-Analysis-
+The objective of this paper is to see if monetary policy transmits to the Brazilian economy through our estimated VAR model. For instance how will an increase in the Selic rate affect our economy? And how far can our model predict this? We estimate a Vector Autoregression (VAR) using Brazilian monthly data from March of 2004 to June of 2026.
